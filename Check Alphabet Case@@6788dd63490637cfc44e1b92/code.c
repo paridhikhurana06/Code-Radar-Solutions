@@ -10,7 +10,7 @@ int main() {
     else if(a>="a" && a<= "z"){
         printf("Lowercase");
     }
-    esle{
+    else{
     printf("Not an alphabet");
     }
     return 0;
