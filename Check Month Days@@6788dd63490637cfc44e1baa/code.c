@@ -40,6 +40,7 @@ int main() {
     printf("31");
     break;
     default:
-    printf("Error");}
+    printf("Invalid month");
+    break;}
     return 0;
 }
