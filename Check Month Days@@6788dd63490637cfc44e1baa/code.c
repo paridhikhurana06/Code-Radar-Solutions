@@ -14,16 +14,16 @@ int main() {
     break;
     case 4:
     printf("30");
-    break:
+    break;
     case 5:
     printf("31");
-    break:
+    break;
     case 6:
     printf("30");
-    break:
+    break;
     case 7:
     printf("31");
-    break:
+    break;
     case 8:
     printf("31");
     break;
