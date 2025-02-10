@@ -2,7 +2,7 @@
 int main() {
     int a;
     scanf("%d",&a);
-    switch(ch);
+    switch(ch){
     case "1":
     printf("31");
     break;
@@ -40,6 +40,6 @@ int main() {
     printf("31");
     break;
     default:
-    printf("Error");
+    printf("Error");}
     return 0;
 }
