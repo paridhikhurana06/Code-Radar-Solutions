@@ -19,7 +19,7 @@ int main() {
         printf("Fail");
         break;
         default:
-        break;
+        printf("Error");
     }
 
     return 0;
