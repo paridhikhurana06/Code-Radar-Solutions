@@ -8,7 +8,7 @@ int main(){
         printf("*");
     }
     else if ( n=2){
-                printf("* *");
+                printf("* *\n");
                 printf("*");
             }
             
