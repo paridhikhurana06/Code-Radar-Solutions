@@ -6,7 +6,7 @@ int main(){
     scanf("%d",&n);
     
     if(i=1,i<=n,i++){
-        if(j=1,j<=n+1-i,j++){
+        if(j=1,j<=n-i+1,j++){
             printf("* ");
         }
             printf("\n");
