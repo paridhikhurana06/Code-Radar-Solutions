@@ -5,8 +5,8 @@ int main(){
     int i,j;
     scanf("%d",&n);
     
-    if(i=1,i<=n,i++){
-        if(j=1,j<=n-i+1,j++){
+    for(i=1,i<=n,i++){
+        for(j=1,j<=n-i+1,j++){
             printf("* ");
         }
             printf("\n");
